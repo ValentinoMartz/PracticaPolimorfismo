@@ -1,0 +1,6 @@
+D:\Escritorio\Practica Polimorfismo\Animales\Animales\bin\Debug\Animales.dll
+D:\Escritorio\Practica Polimorfismo\Animales\Animales\bin\Debug\Animales.pdb
+D:\Escritorio\Practica Polimorfismo\Animales\Animales\obj\Debug\Animales.csproj.AssemblyReference.cache
+D:\Escritorio\Practica Polimorfismo\Animales\Animales\obj\Debug\Animales.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica Polimorfismo\Animales\Animales\obj\Debug\Animales.dll
+D:\Escritorio\Practica Polimorfismo\Animales\Animales\obj\Debug\Animales.pdb

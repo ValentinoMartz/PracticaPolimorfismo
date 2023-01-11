@@ -1,0 +1,14 @@
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\bin\Debug\AjedrezWindowsApp.exe.config
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\bin\Debug\AjedrezWindowsApp.exe
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\bin\Debug\AjedrezWindowsApp.pdb
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\bin\Debug\Ajedrez.dll
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\bin\Debug\Ajedrez.pdb
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.csproj.AssemblyReference.cache
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.Form1.resources
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.Properties.Resources.resources
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.csproj.GenerateResource.cache
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.csproj.CopyComplete
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.exe
+D:\Escritorio\Practica Polimorfismo\Animales\AjedrezWindowsApp\obj\Debug\AjedrezWindowsApp.pdb

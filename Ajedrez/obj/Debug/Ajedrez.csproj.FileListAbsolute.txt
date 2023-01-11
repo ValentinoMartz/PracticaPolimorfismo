@@ -1,0 +1,6 @@
+D:\Escritorio\Practica Polimorfismo\Ajedrez\bin\Debug\Ajedrez.dll
+D:\Escritorio\Practica Polimorfismo\Ajedrez\bin\Debug\Ajedrez.pdb
+D:\Escritorio\Practica Polimorfismo\Ajedrez\obj\Debug\Ajedrez.csproj.AssemblyReference.cache
+D:\Escritorio\Practica Polimorfismo\Ajedrez\obj\Debug\Ajedrez.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica Polimorfismo\Ajedrez\obj\Debug\Ajedrez.dll
+D:\Escritorio\Practica Polimorfismo\Ajedrez\obj\Debug\Ajedrez.pdb
